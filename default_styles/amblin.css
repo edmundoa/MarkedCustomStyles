@@ -81,8 +81,8 @@ body {
     line-height: 1;
     margin-bottom: 0.5em; }
   #wrapper h2 {
-    font-size: 2em;
-    margin-bottom: 0.75em; }
+    font-size: 2rem;
+    margin-bottom: 0.75rem; }
   #wrapper h3 {
     font-size: 1.5em;
     line-height: 1;
@@ -97,6 +97,7 @@ body {
   #wrapper h6 {
     font-size: 1em; }
   #wrapper p {
+    text-align: justify;
     margin: 0 0 1.5em;
     font-size: 1.2em; }
   #wrapper ul, #wrapper ol {
